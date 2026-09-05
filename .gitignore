@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+.agent-context/
+.env
+.env.*
+config.json
+samples/
+*.wav
+models/
+diagnostics/
+acoustic_features.py
+main.py
